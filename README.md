@@ -131,9 +131,11 @@ print(query_result)
 
 ## Output:
 
-![alt text](image.png)
+<img width="742" height="610" alt="image" src="https://github.com/user-attachments/assets/1b704d21-a6aa-4125-ac51-0b7f46d2e582" />
 
-![alt text](image-1.png)
+
+<img width="1157" height="438" alt="image" src="https://github.com/user-attachments/assets/9fc37aaa-ce6b-4a7f-b9f0-e7f34071f377" />
+
 
 
 ## Result:
